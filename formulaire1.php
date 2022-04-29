@@ -13,3 +13,6 @@ La page de destination, avec la structure de votre choix, doit permettre l’aff
 NOM PRENOM s'est inscrit correctement avec le mot de passe valide 
 qui est PASSE, et avec son adresse email suivante : EMAIL
 ```
+
+
+12125665
